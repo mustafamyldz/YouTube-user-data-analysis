@@ -4,3 +4,8 @@ google-auth-httplib2==0.0.3
 google-auth-oauthlib==0.4.1
 pandas
 seaborn
+wordcloud
+isodate
+matplotlib
+textblob
+plotly

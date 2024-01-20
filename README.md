@@ -7,3 +7,7 @@ This is a python project that;
 3: Uses clustering, ML and statistical analyses to find significant correlations and meaninguful connections spesifically for my data.
 4: Reaches a hypothesis and tests it.
 5: Subliminally influences the reader to give a good grade.
+
+You can run the program yourself, get your youtube api token into a config.txt and download the clientsecret.json from https://console.cloud.google.com/apis/credentials.
+
+Then run API_Requests, LikeAPI, SubAPI, data_cleanup and now youre free to use any script you like for your data.csv

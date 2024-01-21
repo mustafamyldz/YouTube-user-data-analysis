@@ -1,5 +1,4 @@
-
-See my website for pictures.
+See my website for info about project.
 https://mustafayildiz3.wixsite.com/youtube-user-data-an
 
 This is a python project that;

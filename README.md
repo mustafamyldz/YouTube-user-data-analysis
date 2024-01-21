@@ -1,3 +1,5 @@
+
+See my website for pictures.
 https://mustafayildiz3.wixsite.com/youtube-user-data-an
 
 This is a python project that;
@@ -9,4 +11,4 @@ This is a python project that;
 
 You can run the program yourself, get your youtube api token into a config.txt and download the clientsecret.json from https://console.cloud.google.com/apis/credentials.
 
-Then run API_Requests, LikeAPI, SubAPI, data_cleanup and now youre free to use any script you like for your data.csv
+Then run API_Requests, LikeAPI, SubAPI, data_cleanup and now you're free to use any script you like for your data.csv
